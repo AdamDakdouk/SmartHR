@@ -8,11 +8,8 @@
 1. [About The Project](#about-the-project)
 2. [Key Features](#key-features)
 3. [Technology Stack](#technology-stack)
-4. [System Architecture Highlights](#system-architecture-highlights)
-5. [Problems Encountered & Solutions](#problems-encountered--solutions)
-6. [Future Works](#future-works)
-7. [Author](#author)
-8. [Acknowledgements](#acknowledgements)
+4. [Problems Encountered & Solutions](#problems-encountered--solutions)
+5. [Future Works](#future-works)
 
 ---
 
