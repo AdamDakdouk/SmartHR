@@ -1,0 +1,10 @@
+azure-functions
+azure-core
+azure-ai-formrecognizer
+azure-identity
+azure-cosmos
+azure-search-documents
+python-dotenv
+requests
+openai
+
